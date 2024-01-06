@@ -8,9 +8,9 @@
     "source",
     "Rename"
   ],
-  "success_url": "https://telegram.dog/AnyDLBot",
-  "website": "https://github.com/SpEcHiDe/AnyDLBot",
-  "repository": "https://github.com/erichdanikeninfo/TG-Rename-Bot",
+  "success_url": "https://telegram.dog/QUEENx_GOD",
+  "website": "https://github.com/mahtoanjali/Anjali-TG-Rename-Bot",
+  "repository": "https://github.com/mahtoanjali/Anjali-TG-Rename-Bot",
   "env": {
     "WEBHOOK": {
       "description": "Setting this to ANYTHING will enable webhooks when in env mode",
